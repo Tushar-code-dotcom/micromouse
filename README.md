@@ -26,55 +26,35 @@ Lesser the ESR of the output capacitor, lesser would be output ripple voltage, s
 Components used in the micromouse are-
 
 
-<table class="tg"><thead>
+<table><thead>
   <tr>
-    <th class="tg-0pky">STM32F407VGT6</th>
-    <th class="tg-0pky">Main microcontroller</th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
+    <th>STM32F407VGT6</th>
+    <th>Main microcontroller</th>
   </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">N20 600 RPM Micro-Metal gear motor</td>
-    <td class="tg-0pky">Motor for driving the robot</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td>N20 600 RPM Micro-Metal gear motor</td>
+    <td>Motor for driving the robot</td>
   </tr>
   <tr>
-    <td class="tg-0pky">LM2576 5V Output SMPS Switcher IC- HTC   Korea</td>
-    <td class="tg-0pky">Stepping down voltage from 12V to 5V</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td>LM2576 5V Output SMPS Switcher IC- HTC   Korea</td>
+    <td>Stepping down voltage from 12V to 5V</td>
   </tr>
   <tr>
-    <td class="tg-0pky">AMS 1117 3.3V LDO</td>
-    <td class="tg-0pky">Stepping down voltage from 12V to 5V</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td>AMS 1117 3.3V LDO</td>
+    <td>Stepping down voltage from 12V to 5V</td>
   </tr>
   <tr>
-    <td class="tg-0pky">HM-BT4502 bluetooth module</td>
-    <td class="tg-0pky">For wirelessly receiving data from the uC</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td>HM-BT4502 bluetooth module</td>
+    <td>For wirelessly receiving data from the uC</td>
   </tr>
   <tr>
-    <td class="tg-0pky">IR   Emitter/Receiver pair(could be replaced with more accurate and cheaper mmWave   radar)</td>
-    <td class="tg-0pky">For sensing the distance from the walls</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td>IR   Emitter/Receiver pair(could be replaced with more accurate and cheaper mmWave   radar)</td>
+    <td>For sensing the distance from the walls</td>
   </tr>
   <tr>
-    <td class="tg-0pky">12V Li-ion battery</td>
-    <td class="tg-0pky">For powering the robot</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td>12V Li-ion battery</td>
+    <td>For powering the robot</td>
   </tr>
-</tbody></table>
+</tbody>
+</table>
