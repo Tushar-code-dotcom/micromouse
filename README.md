@@ -22,6 +22,7 @@ And the ESR matters, because
 Output Ripple Voltage = (∆IIND) (ESR of COUT) 
 ```
 Lesser the ESR of the output capacitor, lesser would be output ripple voltage, stabler would be the output
+Further analysis must be carried out to analyze the fault and determine what is the cause of no output at the buck circuit.
 
 Components used in the micromouse are-
 
