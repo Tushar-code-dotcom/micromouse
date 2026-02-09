@@ -3,7 +3,7 @@
 This repository consists of my PCB design of the micromouse robot. 
 You can see the schematic and the layout pdf for quick glance.
 
-To download the kicad files navigate to schematic-layout-files directory.
+To download the kicad files navigate to `schematic-layout-files` directory.
 
 The micromouse is one of the oldest robotics race.
 The goal is simple: get to the end of the maze as fast as possible.
